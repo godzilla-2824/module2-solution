@@ -1,6 +1,8 @@
 .row {position :relative;
 top :5px;}
 
+#wall{ background: #FC466B; 
+background: linear-gradient(to top, #3F5EFB, #FC466B);
 #element
  {padding:0px ;
 border:3px solid black;
